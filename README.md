@@ -1,0 +1,2 @@
+# eweOS Kernel Config
+
